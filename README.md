@@ -1,4 +1,4 @@
-# Tindog
+
 # Tindog
 
 Tindog is a fictional website inspired by Tinder, but for matching dogs with potential owners. This project was created as a part of the web development course.
